@@ -1,0 +1,9 @@
+[submodule "api_orderwise_gateway"]
+	path = api_orderwise_gateway
+	url = https://github.com/cruzortiz99/api_orderwise_gateway.git
+[submodule "api_orderwise_ai_chat"]
+	path = api_orderwise_ai_chat
+	url = https://github.com/cruzortiz99/api_orderwise_ai_chat.git
+[submodule "api_orderwise"]
+	path = api_orderwise
+	url = https://github.com/qbitsdev02/api_orderwise.git
